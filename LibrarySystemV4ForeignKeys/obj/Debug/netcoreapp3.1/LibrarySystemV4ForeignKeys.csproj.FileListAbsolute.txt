@@ -1,0 +1,720 @@
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.StaticWebAssets.xml
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.exe
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.deps.json
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.runtimeconfig.json
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.runtimeconfig.dev.json
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.dll
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.pdb
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.Views.dll
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.Views.pdb
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.AssemblyInfoInputs.cache
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.AssemblyInfo.cs
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.csproj.CoreCompileInputs.cache
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.RazorAssemblyInfo.cache
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.RazorAssemblyInfo.cs
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.TagHelpers.input.cache
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.TagHelpers.output.cache
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.RazorCoreGenerate.cache
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Book\Create.cshtml.g.cs
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Book\Delete.cshtml.g.cs
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Book\Details.cshtml.g.cs
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Book\Edit.cshtml.g.cs
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Book\Index.cshtml.g.cs
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Loan\Index.cshtml.g.cs
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Loan\MyLoans.cshtml.g.cs
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Role\CreateRole.cshtml.g.cs
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Role\EditRole.cshtml.g.cs
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Role\EditUsersInRole.cshtml.g.cs
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Role\ListRoles.cshtml.g.cs
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Role\ListUsers.cshtml.g.cs
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.RazorTargetAssemblyInfo.cache
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.RazorTargetAssemblyInfo.cs
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.Views.pdb
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.csproj.CopyComplete
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\staticwebassets\LibrarySystemV4ForeignKeys.StaticWebAssets.Manifest.cache
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\staticwebassets\LibrarySystemV4ForeignKeys.StaticWebAssets.xml
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.dll
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.pdb
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.genruntimeconfig.cache
+C:\Users\Leigh Briody\source\repos\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.csprojAssemblyReference.cache
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.StaticWebAssets.xml
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.exe
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.deps.json
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.runtimeconfig.json
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.runtimeconfig.dev.json
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.pdb
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.Views.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.Views.pdb
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.csprojAssemblyReference.cache
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.AssemblyInfoInputs.cache
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.AssemblyInfo.cs
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.csproj.CoreCompileInputs.cache
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.RazorAssemblyInfo.cache
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.RazorAssemblyInfo.cs
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.TagHelpers.input.cache
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.TagHelpers.output.cache
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.RazorCoreGenerate.cache
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Book\Create.cshtml.g.cs
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Book\Delete.cshtml.g.cs
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Book\Details.cshtml.g.cs
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Book\Edit.cshtml.g.cs
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Book\Index.cshtml.g.cs
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Loan\Index.cshtml.g.cs
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Loan\MyLoans.cshtml.g.cs
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Role\CreateRole.cshtml.g.cs
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Role\EditRole.cshtml.g.cs
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Role\EditUsersInRole.cshtml.g.cs
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Role\ListRoles.cshtml.g.cs
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Role\ListUsers.cshtml.g.cs
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.RazorTargetAssemblyInfo.cache
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.RazorTargetAssemblyInfo.cs
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.Views.pdb
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.csproj.CopyComplete
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\staticwebassets\LibrarySystemV4ForeignKeys.StaticWebAssets.Manifest.cache
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\staticwebassets\LibrarySystemV4ForeignKeys.StaticWebAssets.xml
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.pdb
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\USE THIS\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.genruntimeconfig.cache
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.csprojAssemblyReference.cache
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.AssemblyInfoInputs.cache
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.AssemblyInfo.cs
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.csproj.CoreCompileInputs.cache
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.RazorAssemblyInfo.cache
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.RazorAssemblyInfo.cs
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.TagHelpers.input.cache
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.TagHelpers.output.cache
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.RazorCoreGenerate.cache
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Book\Create.cshtml.g.cs
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Book\Delete.cshtml.g.cs
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Book\Details.cshtml.g.cs
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Book\Edit.cshtml.g.cs
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Book\Index.cshtml.g.cs
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Loan\Index.cshtml.g.cs
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Loan\MyLoans.cshtml.g.cs
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Role\CreateRole.cshtml.g.cs
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Role\EditRole.cshtml.g.cs
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Role\EditUsersInRole.cshtml.g.cs
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Role\ListRoles.cshtml.g.cs
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Role\ListUsers.cshtml.g.cs
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.RazorTargetAssemblyInfo.cache
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.RazorTargetAssemblyInfo.cs
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.Views.pdb
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.dll
+C:\Users\ME\Desktop\YEAR - 3\Semester 2\Web Frameworks\CA 2\LibrarySystemV4\Trying to add images as part of books\WORKING IMAGE UPLOAD\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.pdb
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\appsettings.json
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Areas\Identity\Pages\Account\assets\vendor\bootstrap-icons\bootstrap-icons.json
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\assets\vendor\bootstrap-icons\bootstrap-icons.json
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Views\Shared\assets\vendor\bootstrap-icons\bootstrap-icons.json
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.StaticWebAssets.xml
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.exe
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.deps.json
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.runtimeconfig.json
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.runtimeconfig.dev.json
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.pdb
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.Views.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.Views.pdb
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.AssemblyInfoInputs.cache
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.AssemblyInfo.cs
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.csproj.CoreCompileInputs.cache
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.MvcApplicationPartsAssemblyInfo.cs
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.MvcApplicationPartsAssemblyInfo.cache
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.RazorAssemblyInfo.cache
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.RazorAssemblyInfo.cs
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.TagHelpers.input.cache
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.TagHelpers.output.cache
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.RazorCoreGenerate.cache
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Book\Create.cshtml.g.cs
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Book\Delete.cshtml.g.cs
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Book\Details.cshtml.g.cs
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Book\Edit.cshtml.g.cs
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Book\Index.cshtml.g.cs
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Create.cshtml.g.cs
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Delete.cshtml.g.cs
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Index.cshtml.g.cs
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Loan\AllLateReturnLoans.cshtml.g.cs
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Loan\AllLoans.cshtml.g.cs
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Loan\AllOnTimeReturnLoans.cshtml.g.cs
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Loan\AllOverdueLoans.cshtml.g.cs
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Loan\AllReturnedLoans.cshtml.g.cs
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Loan\Index.cshtml.g.cs
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Loan\MyLoans.cshtml.g.cs
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Loan\OutstandingLoans.cshtml.g.cs
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Loan\SuccessfullLoan.cshtml.g.cs
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Role\CreateRole.cshtml.g.cs
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Role\EditRole.cshtml.g.cs
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Role\EditUsersInRole.cshtml.g.cs
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Role\ListRoles.cshtml.g.cs
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Role\ListUsers.cshtml.g.cs
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\ShoppingCart\Index.cshtml.g.cs
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\ShoppingCart\SuccessfulLoans.cshtml.g.cs
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\User\Delete.cshtml.g.cs
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\User\Details.cshtml.g.cs
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.RazorTargetAssemblyInfo.cache
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.RazorTargetAssemblyInfo.cs
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.Views.pdb
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.csproj.CopyComplete
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\staticwebassets\LibrarySystemV4ForeignKeys.StaticWebAssets.Manifest.cache
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\staticwebassets\LibrarySystemV4ForeignKeys.StaticWebAssets.xml
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.dll
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.pdb
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.genruntimeconfig.cache
+C:\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.csprojAssemblyReference.cache
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Areas\Identity\Pages\Account\assets\vendor\bootstrap-icons\bootstrap-icons.json
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\assets\vendor\bootstrap-icons\bootstrap-icons.json
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Views\Shared\assets\vendor\bootstrap-icons\bootstrap-icons.json
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.StaticWebAssets.xml
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.exe
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.deps.json
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.runtimeconfig.json
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.runtimeconfig.dev.json
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.pdb
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.Views.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.Views.pdb
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.csprojAssemblyReference.cache
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.AssemblyInfoInputs.cache
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.AssemblyInfo.cs
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.csproj.CoreCompileInputs.cache
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.MvcApplicationPartsAssemblyInfo.cs
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.MvcApplicationPartsAssemblyInfo.cache
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.RazorAssemblyInfo.cache
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.RazorAssemblyInfo.cs
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.TagHelpers.input.cache
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.TagHelpers.output.cache
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.RazorCoreGenerate.cache
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Book\Create.cshtml.g.cs
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Book\Delete.cshtml.g.cs
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Book\Details.cshtml.g.cs
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Book\Edit.cshtml.g.cs
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Book\Index.cshtml.g.cs
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Create.cshtml.g.cs
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Delete.cshtml.g.cs
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Index.cshtml.g.cs
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Loan\AllLateReturnLoans.cshtml.g.cs
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Loan\AllLoans.cshtml.g.cs
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Loan\AllOnTimeReturnLoans.cshtml.g.cs
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Loan\AllOverdueLoans.cshtml.g.cs
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Loan\AllReturnedLoans.cshtml.g.cs
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Loan\Index.cshtml.g.cs
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Loan\MyLoans.cshtml.g.cs
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Loan\OutstandingLoans.cshtml.g.cs
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Loan\SuccessfullLoan.cshtml.g.cs
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Role\CreateRole.cshtml.g.cs
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Role\EditRole.cshtml.g.cs
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Role\EditUsersInRole.cshtml.g.cs
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Role\ListRoles.cshtml.g.cs
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Role\ListUsers.cshtml.g.cs
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\ShoppingCart\Index.cshtml.g.cs
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\ShoppingCart\SuccessfulLoans.cshtml.g.cs
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\User\Delete.cshtml.g.cs
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\User\Details.cshtml.g.cs
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.RazorTargetAssemblyInfo.cache
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.RazorTargetAssemblyInfo.cs
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.Views.pdb
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.csproj.CopyComplete
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\staticwebassets\LibrarySystemV4ForeignKeys.StaticWebAssets.Manifest.cache
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\staticwebassets\LibrarySystemV4ForeignKeys.StaticWebAssets.xml
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.dll
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.pdb
+C:\Final Library System - Leigh and Osama\LibrarySystemV4ForeignKeys\obj\Debug\netcoreapp3.1\LibrarySystemV4ForeignKeys.genruntimeconfig.cache

@@ -1,0 +1,84 @@
+﻿@model IEnumerable<LibrarySystemV4ForeignKeys.Models.Loan>
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<ApplicationUser> SignInManager
+
+
+@{
+    ViewData["Title"] = "Loans";
+}
+
+<!-- ======= Hero Section ======= -->
+<section id="hero" class="d-flex align-items-center">
+    <div class="container" data-aos="zoom-out" data-aos-delay="100">
+        <h1>All My<span>Loans</span></h1>
+        <h2>Here are all your loans</h2>
+        <div class="d-flex">
+          
+            <table class="table table-dark table-striped">
+                <thead>
+                    <tr>
+
+                        
+                        <th>
+                            @Html.DisplayNameFor(model => model.book)
+                        </th>
+
+                        <th>
+                            @Html.DisplayNameFor(model => model.username)
+                        </th>
+                        <th>
+                            Date Taken
+                        </th>
+                        <th>
+                            Due Date
+                        </th>
+                        <th>
+                            <!--ADD IF DATE RETURNED IS NULL SHOW NOT YET RETURNED-->
+                            Date Returned
+                        </th>
+
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                    <tr>
+                        
+                        <td>
+                            @Html.DisplayFor(modelItem => item.book.bookName)
+                        </td>
+
+                        <td>
+                            @Html.DisplayFor(modelItem => item.username)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.dateTaken)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.dueDate)
+                        </td>
+                        @if (item.dateReturned == null)
+                        {
+                            <td>
+
+                                <!--THIS BUTTON SHOULD ONLY BE AVAILABLE IF THE DATE RETURNED IS NULL AND THE BOOK HAS NOT BEEN RETURNED-->
+                                <!--OTHERWISE MAYBE AN OPTION TO TAKE BOOK ON LOAN AGAIN-->
+                                <a asp-controller="Loan" asp-action="ReturnLoan" asp-route-loanId="@item.loanId">Return Book</a> 
+
+                            </td>
+                        }
+                        else
+                        {
+                            <td>
+                                Book Returned
+                            </td>
+                        }
+
+                    </tr>
+                    }
+                </tbody>
+            </table>
+
+        </div>
+    </div>
+</section><!-- End Hero -->

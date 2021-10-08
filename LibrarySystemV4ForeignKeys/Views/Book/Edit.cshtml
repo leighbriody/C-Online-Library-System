@@ -1,0 +1,77 @@
+﻿@model LibrarySystemV4ForeignKeys.Models.Book
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+
+<main id="main">
+
+    <!-- ======= Edit Book Section ======= -->
+    <section id="team" class="team section-bg">
+        <div class="container" data-aos="fade-up">
+            <div class="section-title">
+                <p>Edit books paragraph</p>
+            </div>
+            <div class="row">
+                <form asp-action="Edit" enctype="multipart/form-data">
+
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <input type="hidden" asp-for="id" />
+                    <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400">
+                        <div class="member">
+
+                            <div class="member-info">
+                                <label asp-for="bookName" class="control-label"></label>
+                                <input asp-for="bookName" class="form-control" />
+                                <span asp-validation-for="bookName" class="text-danger"></span>
+
+                                <label asp-for="author" class="control-label"></label>
+                                <input asp-for="author" class="form-control" />
+                                <span asp-validation-for="author" class="text-danger"></span>
+
+
+
+                                <div class="form-group">
+                                    <label asp-for="genreId" class="control-label"></label>
+                                    <select asp-for="genreId" class="form-control" asp-items="ViewBag.GenreId"></select>
+                                    <span asp-validation-for="genreId" class="text-danger"></span>
+                                </div>
+
+
+
+                                <label asp-for="description" class="control-label"></label>
+                                <input asp-for="description" class="form-control" />
+                                <span asp-validation-for="description" class="text-danger"></span>
+
+
+
+
+                                <label asp-for="quantity" class="control-label"></label>
+                                <input asp-for="quantity" class="form-control" />
+                                <span asp-validation-for="quantity" class="text-danger"></span>
+
+                                <label asp-for="overdueFeePerDay" class="control-label"></label>
+                                <input asp-for="overdueFeePerDay" class="form-control" />
+                                <span asp-validation-for="overdueFeePerDay" class="text-danger"></span>
+
+
+                                <input type="submit" value="Save" class="btn btn-primary" />
+                              
+
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+
+
+
+
+
+
+
+
+                @section Scripts {
+                    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+                }

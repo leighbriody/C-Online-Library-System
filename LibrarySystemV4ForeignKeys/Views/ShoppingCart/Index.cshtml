@@ -1,0 +1,177 @@
+﻿@using LibrarySystemV4ForeignKeys.ViewModels
+@using Microsoft.AspNetCore.Identity
+@model ShoppingCartViewModel
+@inject SignInManager<ApplicationUser> SignInManager
+
+@{
+    ViewData["Title"] = "Your Cart";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+
+
+<!-- ======= Hero Section ======= -->
+<section class="d-flex align-items-center">
+    <div class="container" data-aos="zoom-out" data-aos-delay="100">
+        <h1>Your  <span>Cat</span></h1>
+        <h2>Below is  all books currently in the library</h2>
+     
+
+
+
+            @if (Model.ShoppingCart.ShoppingCartItems.Count > 0)
+            {
+
+              
+                <table class="table table-light table-striped ">
+                    <thead>
+                        <tr>
+                            <th class="text-center">Book</th>
+                        
+                            <th class="text-center">Quantity </th>
+                            <th class="text-center">Overdue Fee (Per Day)</th>
+                            <th class="text-center">Subtotal</th>
+                            <th class="text-center">Modify</th>
+                        </tr>
+                    </thead>
+
+                    <tbody>
+                        @{
+
+
+                            String username = SignInManager.UserManager.GetUserName(User);
+                            int count = 0;
+
+                        }
+                        @foreach (var cartItem in Model.ShoppingCart.ShoppingCartItems)
+                        {
+                            <tr>
+                                <td class="text-center">@cartItem.Book.bookName</td>
+                              
+                                <td class="text-center">@cartItem.Book.quantity</td>
+                                <td class="text-center">(@cartItem.Book.overdueFeePerDay)</td>
+                                <!--Get the total-->
+                                <td class="text-right">@((cartItem.NoOfItems * cartItem.Book.overdueFeePerDay).ToString("c"))</td>
+                                <td class="text-center">
+                                    <a class="btn btn-danger"
+                                       asp-controller="ShoppingCart"
+                                       asp-action="RemoveFromShoppingCart"
+                                       asp-route-Id="@cartItem.Book.id">Remove</a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                    <tfoot>
+                        <tr>
+                            <td class="text-right" colspan="3">Total:</td>
+                            <td class="text-right font-weight-bold">
+                                @Model.ShoppingCartTotal
+                            </td>
+                        </tr>
+                    </tfoot>
+                </table>
+
+
+                @if (SignInManager.IsSignedIn(User))
+                {
+
+                  
+                    <div class="row">
+                        <h3 class="text-capitalize mb-5">Enter your billing & shipping information</h3>
+                        <form class="form text-center">
+                            <div class="row text-center">
+                                <h4 class="text-capitalize">Your shipping info</h4>
+                            </div>
+                            <div class="row text-center">
+                                <div>
+                                    <label>First Name <i class="text-danger">required</i></label>
+                                    <input class="mb-3 form-control" name="fName" type="text" required />
+                                </div>
+                                <div>
+                                    <label>Last Name</label>
+                                    <input class="form-control" name="lName" type="text" />
+                                </div>
+                            </div>
+                            <div class="row text-center">
+                                <div>
+                                    <label>Email <i class="text-danger">required</i></label>
+                                    <input class="form-control type="email" required name="email" />
+                                </div>
+                                <div>
+                                    <label>Moblie </label>
+                                    <input class="form-control " type="tel" required name="phone" />
+                                </div>
+                            </div>
+                            <div class="row text-center">
+                                <label>Address Line 1 <i class="text-danger">required</i></label>
+                                <input class="form-control " name="addrLine1" type="text" required />
+                                <label>Address Line 2</label>
+                                <input class="form-control " name="addrLine2" type="text" />
+                                <label>Town <i class="text-danger">required</i></label>
+                                <input class="form-control " name="town" type="text" required />
+                            </div>
+                            <div class="row text-center">
+                                <label>County <i class="text-danger">required</i></label>
+                                <input class="form-control " name="county" type="text" required />
+                                <label>Country <i class="text-danger">required</i></label>
+                                <input class="form-control " name="country" type="text" required />
+                            </div>
+                            <div class="row text-center">
+                                <h4 class="text-capitalize">Your billing info</h4>
+                            </div>
+                            <div class="row text-center">
+                                <label>Card-Number <i class="text-danger">required</i></label>
+                                <input class="form-control " type="text" required />
+                                <label>Expiry <i class="text-danger">required</i></label>
+                                <input class="form-control " type="text" required />
+                            </div>
+                            <div class="row text-center">
+                                <label>Cvv <i class="text-danger">required</i></label>
+                                <input class="form-control " type="text" required />
+                                <label>Card Holder <i class="text-danger">required</i></label>
+                                <input class="form-control " type="text" required />
+                            </div>
+                            <div class="row text-center">
+                                <input type="checkbox" class="form-check-input" required />
+                                <label class="form-check-label ">Is your billing address the same as your shipping address</label>
+                            </div>
+                            <div class="row text-center">
+                                <p class="button">
+                                    <a class="btn btn-success" asp-controller="ShoppingCart"
+                                       asp-action="Checkout"
+                                       asp-route-username="@username">Checkout</a>
+                                </p>
+                            </div>
+                        </form>
+                    </div>
+                  
+                }
+            }
+            else
+            {
+                <div>
+                    <div class>
+                        <div class="">
+                            <div class="card-body cart">
+                                <div class="empty-cart-cls text-center">
+                                    <img src="https://i.imgur.com/dCdflKN.png" width="130" height="130" class="img-fluid mb-4 mr-3">
+                                    <h3><strong>Your Cart is Empty</strong></h3>
+                                    <h4>Add something to make me happy :)</h4> <a asp-controller="Loan" asp-action="Index" class="btn btn-primary cart-btn-transform m-3" data-abc="true">View Books</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+
+
+
+        
+    </div>
+</section><!-- End Hero -->
+
+
+
+

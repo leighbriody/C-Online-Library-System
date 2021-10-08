@@ -1,0 +1,82 @@
+﻿@model IEnumerable<LibrarySystemV4ForeignKeys.Models.Loan>
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<ApplicationUser> SignInManager
+
+@{
+    ViewData["Title"] = "All Loans";
+}
+
+
+<!-- ======= Hero Section ======= -->
+<section id="hero" class="d-flex align-items-center">
+    <div class="container" data-aos="zoom-out" data-aos-delay="100">
+        <h1>All <span>Loans</span></h1>
+        <h2>Here are all the loans</h2>
+        <div class="d-flex">
+            <p>
+                <a asp-controller="Loan" asp-action="OutstandingLoans">Outstanding</a> | <a asp-controller="Loan" asp-action="AllReturnedLoans">Returned</a>
+                | <a asp-controller="Loan" asp-action="AllOverdueLoans"> Overdue</a> | <a asp-controller="Loan" asp-action="AllLateReturnLoans"> Late Returns</a>
+            </p>
+            <table class="table table-dark table-striped">
+                <thead>
+                    <tr>
+
+                        <th>
+                            @Html.DisplayNameFor(model => model.loanId)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.book)
+                        </th>
+
+                        <th>
+                            @Html.DisplayNameFor(model => model.username)
+                        </th>
+                        <th>
+                            Date Taken
+                        </th>
+                        <th>
+                            Due Date
+                        </th>
+                        <th>
+                            <!--ADD IF DATE RETURNED IS NULL SHOW NOT YET RETURNED-->
+                            Date Returned
+                        </th>
+
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.loanId)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.book.bookName)
+                            </td>
+
+                            <td>
+                                @Html.DisplayFor(modelItem => item.username)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.dateTaken)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.dueDate)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.dateReturned)
+                            </td>
+
+                        </tr>
+                    }
+                </tbody>
+            </table>
+
+        </div>
+    </div>
+</section><!-- End Hero -->
+
+
+
+

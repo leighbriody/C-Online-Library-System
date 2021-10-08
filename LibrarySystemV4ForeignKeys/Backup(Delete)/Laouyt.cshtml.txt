@@ -1,0 +1,163 @@
+@using Microsoft.AspNetCore.Identity
+
+<!--THE LLINE BELOW THROWS AN ERROR-->
+<!--//model IEnumerable<LibrarySystemV4ForeignKeys.Models.Book> -->
+
+@inject SignInManager<ApplicationUser> SignInManager
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Library System </title>
+
+
+    <!-- Favicons -->
+    <link href="assets/img/favicon.png" rel="icon">
+    <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+    <!-- Vendor CSS Files -->
+    <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+    <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+    <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+    <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+    <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+    <!-- Template Main CSS File -->
+    <link href="assets/css/style.css" rel="stylesheet">
+
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Library System</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
+                    <partial name="_LoginPartial" />
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+
+
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Loan" asp-action="Index">Books For Loan</a>
+                        </li>
+
+
+                        <!--RETURNED OVERDUE LOANS - ALL LOANS THAT WERE RETURNED BUT WERE OVERDUE-->
+                        <!--IF THE USER IS AD ADMIN WHAT FUNCTIONALITY SHOULD THEY HAVE AVAILABLE-->
+                        @if (User.IsInRole("Admin"))
+                        {
+                            <!--1 ) ALL BOOKS WITH OPTIONS TO EDIT MODIFY AND DELETE-->
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Book" asp-action="Index">Books</a>
+                            </li>
+
+                            <!--Create Role - Have a dropdown list of all the role options available-->
+                            <div class="dropdown show">
+                                <a class="btn btn-primary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                   Roles
+                                </a>
+
+                                <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                                    <a class="nav-link text-dark" asp-area="" asp-controller="Role" asp-action="CreateRole">Create Role</a>
+                                    <a class="nav-link text-dark" asp-area="" asp-controller="Role" asp-action="ListUsers">List Users</a>
+                                    <a class="nav-link text-dark" asp-area="" asp-controller="Role" asp-action="ListRoles">List Roles</a>
+                                   
+                                </div>
+                            </div>
+                            <br />
+                            <!--
+                            <li class="nav-item">
+                               
+                            </li>-->
+
+                            <!--Loans Drop Down For Admin - -->
+                            <!--All Loans-->
+                             <div class="dropdown show">
+                                <a class="btn btn-primary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                   Loans
+                                </a>
+
+                                <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                                    <a class="nav-link text-dark" asp-area="" asp-controller="Loan" asp-action="AllLoans">All Loans</a>
+                                    <a class="nav-link text-dark" asp-area="" asp-controller="Loan" asp-action="AllReturnedLoans">All Returned</a>
+                                    <a class="nav-link text-dark" asp-area="" asp-controller="Loan" asp-action="AllOnTimeReturnLoans">On Time Returns</a>
+                                    <a class="nav-link text-dark" asp-area="" asp-controller="Loan" asp-action="AllLateReturnLoans">Late Returns</a>
+                                    <a class="nav-link text-dark" asp-area="" asp-controller="Loan" asp-action="OutstandingLoans">Outstanding</a>
+                                    <a class="nav-link text-dark" asp-area="" asp-controller="Loan" asp-action="AllOverdueLoans">Overdue</a>
+
+
+                                </div>
+                            </div>
+
+
+
+
+
+
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="" asp-action="">Loans</a>
+                            </li>
+
+                            <!--USERS - OPTION TO VIEW ALL USERS WITH OPTIONS TO DELETE AND MODIFY-->
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="User" asp-action="Index">Users</a>
+                            </li>
+
+                            <!--OVERDUE LOANS - SEE ALL LOANS THAT ARE OVERDUE AND NOT YET RETURNED
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-area="" asp-controller="" asp-action="">Overdue Loans</a>
+        </li>
+        -->
+                        }
+
+
+
+
+                        @{
+
+
+                            String username = SignInManager.UserManager.GetUserName(User);
+
+                        }
+
+
+                        <!--ONLY SHOW THIS IF THE USER IS LOGGED IN-->
+                        
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-route-username="@username" asp-controller="Loan" asp-action="MyLoans">My Loans</a>
+                        </li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2021 - LibrarySystemV4ForeignKeys - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

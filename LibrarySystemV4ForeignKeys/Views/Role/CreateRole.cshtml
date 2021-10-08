@@ -1,0 +1,39 @@
+﻿@model LibrarySystemV4ForeignKeys.ViewModels.CreateRoleViewModel
+
+@{
+    ViewBag.Title = "Create New Role";
+}
+
+
+
+
+<!-- ======= Hero Section ======= -->
+<section id="hero" class="d-flex align-items-center">
+    <div class="container" data-aos="zoom-out" data-aos-delay="100">
+        <h1>Create <span>Role</span></h1>
+        <h2>Please create a new role</h2>
+        <div class="d-flex">
+            <form asp-action="CreateRole" method="post" class="">
+                <div asp-validation-summary="All" class="text-danger">
+                </div>
+                <div class="form-group row">
+                    <label asp-for="RoleName" class=" col-form-label"></label>
+                    <div class="">
+                        <input asp-for="RoleName" class="form-control" placeholder="Name">
+                        <span asp-validation-for="RoleName" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="form-group row">
+                    <div class="">
+                        <button type="submit" class="btn btn-primary" style="width:auto">
+                            Create Role
+                        </button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</section><!-- End Hero -->
+
+

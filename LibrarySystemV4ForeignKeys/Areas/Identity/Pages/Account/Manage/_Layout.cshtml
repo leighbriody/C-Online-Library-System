@@ -1,0 +1,31 @@
+﻿@{
+    if (ViewData.TryGetValue("ParentLayout", out var parentLayout))
+    {
+        Layout = (string)parentLayout;
+    }
+    else
+    {
+        Layout = "/Areas/Identity/Pages/_Layout.cshtml";
+    }
+}
+
+
+<!-- ======= Hero Section ======= -->
+<section id="hero" class="d-flex align-items-center">
+    <div class="container" data-aos="zoom-out" data-aos-delay="100">
+        <h1>Manage<span>Profile</span></h1>
+        <partial name="_ManageNav" />
+
+        <div class="d-flex">
+            @RenderBody()
+        </div>
+    </div>
+</section><!-- End Hero -->
+
+
+
+
+
+@section Scripts {
+    @RenderSection("Scripts", required: false)
+}
